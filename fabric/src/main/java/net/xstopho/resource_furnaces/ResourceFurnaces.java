@@ -1,8 +1,8 @@
-package net.xstopho.examplemod;
+package net.xstopho.resource_furnaces;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class ResourceFurnaces implements ModInitializer {
     @Override
     public void onInitialize() {
 
